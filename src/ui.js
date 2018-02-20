@@ -21,7 +21,7 @@ let ui = {
     armPosition: document.getElementById('arm-position')
 };
 
-// Key Listeners
+// Key Listener
 
 // Gyro rotation
 let updateGyro = (key, value) => {
